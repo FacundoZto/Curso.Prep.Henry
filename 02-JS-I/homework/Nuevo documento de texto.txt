@@ -1,0 +1,9 @@
+Variables: Son contenedores que sirven para guardar información a utilizar.
+
+Strings: conjunto de palabras y signos que van entre comillas.
+
+Funciones: elementos que nos permiten realizar una tarea que definimos.
+
+Declaracion 'if': declaración que devuelve un valor como verdadero o falso.
+
+Valores booleanos 'true', 'false': son los resultados posibles de las declaraciones 'if'.
