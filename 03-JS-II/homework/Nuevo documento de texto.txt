@@ -1,0 +1,7 @@
+'for': es lo que se llama bucle y nos permite repetir código.
+
+'&&': es un operador que devuelve verdadero sólo si ambos elementos comparados cumplen la condición.
+
+'||': es otro operador que devuelve verdadero cuandó sólo uno o ambos de los elementos comparados cumple la condición
+
+'!': operador que se utiliza para negar una expresión y obtener el valor opuesto.
